@@ -1,0 +1,8 @@
+/Users/smathew/Documents/smat/CSCI E-57a/Assignments/Part1/Assignment-1.3/config-server-parent-assignment1.3/assets-service/src/main/java/com/thoughtmechanix/assets/repository/AssetRepository.java
+/Users/smathew/Documents/smat/CSCI E-57a/Assignments/Part1/Assignment-1.3/config-server-parent-assignment1.3/assets-service/src/main/java/com/thoughtmechanix/assets/model/Asset.java
+/Users/smathew/Documents/smat/CSCI E-57a/Assignments/Part1/Assignment-1.3/config-server-parent-assignment1.3/assets-service/src/main/java/com/thoughtmechanix/assets/model/Organization.java
+/Users/smathew/Documents/smat/CSCI E-57a/Assignments/Part1/Assignment-1.3/config-server-parent-assignment1.3/assets-service/src/main/java/com/thoughtmechanix/assets/services/AssetService.java
+/Users/smathew/Documents/smat/CSCI E-57a/Assignments/Part1/Assignment-1.3/config-server-parent-assignment1.3/assets-service/src/main/java/com/thoughtmechanix/assets/services/OrganizationService.java
+/Users/smathew/Documents/smat/CSCI E-57a/Assignments/Part1/Assignment-1.3/config-server-parent-assignment1.3/assets-service/src/main/java/com/thoughtmechanix/assets/Application.java
+/Users/smathew/Documents/smat/CSCI E-57a/Assignments/Part1/Assignment-1.3/config-server-parent-assignment1.3/assets-service/src/main/java/com/thoughtmechanix/assets/config/ServiceConfig.java
+/Users/smathew/Documents/smat/CSCI E-57a/Assignments/Part1/Assignment-1.3/config-server-parent-assignment1.3/assets-service/src/main/java/com/thoughtmechanix/assets/controllers/AssetServiceController.java
