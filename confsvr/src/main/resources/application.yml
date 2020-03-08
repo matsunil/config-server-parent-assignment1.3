@@ -15,7 +15,7 @@ spring:
         #encrypt.enabled: true
         encrypt.enabled: false
         git:
-          uri: https://github.com/matsunil/config-server-repo/
+          uri: https://github.com/matsunily/config-server-repo/
           searchPaths: assetsservice,organizationservice
-          username: native-cloud-apps
-          password: 0ffended
+          username: matsunily
+          password: SFglobal#82

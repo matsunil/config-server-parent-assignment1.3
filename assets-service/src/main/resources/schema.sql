@@ -8,11 +8,11 @@ CREATE TABLE assets (
   comment           VARCHAR(100));
 
 
-INSERT INTO assets (asset_id,  organization_id, asset_type, asset_name)
-VALUES ('f3831f8c-c338-4ebe-a82a-e2fc1d1ff78a', 'e254f8c-c442-4ebe-a82a-e2fc1d1ff78a', 'user','customer-crm-co');
-INSERT INTO assets (asset_id,  organization_id, asset_type, asset_name)
-VALUES ('t9876f8c-c338-4abc-zf6a-ttt1', 'e254f8c-c442-4ebe-a82a-e2fc1d1ff78a', 'user','suitability-plus');
-INSERT INTO assets (asset_id,  organization_id, asset_type, asset_name)
-VALUES ('38777179-7094-4200-9d61-edb101c6ea84', '442adb6e-fa58-47f3-9ca2-ed1fecdfe86c', 'user','HR-PowerSuite');
-INSERT INTO assets (asset_id,  organization_id, asset_type, asset_name)
-VALUES ('08dbe05-606e-4dad-9d33-90ef10e334f9', '442adb6e-fa58-47f3-9ca2-ed1fecdfe86c', 'core-prod','WildCat Application Gateway');
+INSERT INTO assets (asset_id,  organization_id, asset_name, asset_type, comment)
+VALUES ('e741a400-6171-11ea-bc55-0242ac130003', '4d7b9c40-5c8f-11ea-bc55-0242ac130003', 'computers','operating', 'valuable asset');
+INSERT INTO assets (asset_id,  organization_id, asset_name, asset_type, comment)
+VALUES ('3046b0ce-771d-4a3d-937f-6cde345659c4', '4d7b9c40-5c8f-11ea-bc55-0242ac130003', 'furniture','tangible', 'replace partially');
+INSERT INTO assets (asset_id,  organization_id, asset_name, asset_type, comment)
+VALUES ('fa230ac8-6171-11ea-bc55-0242ac130003', 'd1375b3c-6171-11ea-bc55-0242ac130003', 'power cord','operating', 'replace fully');
+INSERT INTO assets (asset_id,  organization_id, asset_name, asset_type, comment)
+VALUES ('02f52f5a-6172-11ea-bc55-0242ac130003', 'd1375b3c-6171-11ea-bc55-0242ac130003', 'chair','tangible', 'replace partially');
